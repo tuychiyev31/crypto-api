@@ -25,7 +25,7 @@ cd crypto-api
 ```
 Start Docker containers:
 ```bash
-docker compose up -d --build
+docker compose up -d
 ```
 Install PHP dependencies:
 ```bash
