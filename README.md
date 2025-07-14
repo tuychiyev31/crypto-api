@@ -20,7 +20,7 @@ A real-time-like REST API that fetches cryptocurrency data from the [CoinGecko A
 ## ⚙ Installation (with Docker)
 
 ```bash
-git clone https://github.com/USERNAME/crypto-tracker.git
+git clone https://github.com/tuychiyev31/crypto-api.git
 cd crypto-tracker
 ```
 Start Docker containers:
